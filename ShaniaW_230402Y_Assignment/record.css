@@ -1,0 +1,66 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+table {
+    table-layout: fixed;
+    text-align: center;
+    margin-left: 380px;
+    border: none;
+    border-collapse: collapse;
+}
+
+td {
+    padding: 10px;
+    font-size: 150%;
+    background: rgb(118, 222, 225);
+    color: black;
+    color:rgb(14, 14, 138) ;
+}
+
+#formhead {
+    font-size: 200%;
+    font-weight: 300%;
+    color: white;
+    padding: 20px;
+    background-color: rgb(14, 14, 138);
+    margin-left: 5px;
+    margin-right: 5px;
+    border-bottom: 8px solid rgb(118, 222, 225);
+    text-align: center;
+}
+
+
+footer {
+    color: white;
+    padding: 15px;
+    background-color: rgb(14, 14, 138);
+    border-top: 8px solid rgb(118, 222, 225);
+}
+
+footer > h3 {
+margin-left:20px;
+float: left;
+font-size: 150%;
+font-weight: 200%;
+}
+
+#email {
+text-decoration: none;
+color: white;
+}
+
+#nav1 > a{
+text-decoration: none;
+color: white;
+}
+
+.foot {
+margin-left: 600px;
+font-size: 110%;
+}
+
+
+
+

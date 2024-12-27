@@ -1,0 +1,280 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#heading {
+    font-size: 200%;
+    font-weight: 300%;
+    color: white;
+    padding: 15px;
+    background-color: rgb(14, 14, 138);
+    margin-left: 5px;
+    margin-right: 5px;
+    border-bottom: 8px solid rgb(118, 222, 225);
+}
+
+h2 {
+    font-size: 200%;
+}
+
+
+.link {
+    float: right;
+    display: inline;
+    background-color: rgb(14, 14, 138);
+    color: white;
+    font-size: large;
+    font-weight: 300%;
+    padding: 10px;
+    border: none;
+    align-items: center;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: rgb(245, 245, 167);
+}
+
+.event {
+    color:rgb(14, 14, 138);
+}
+
+#start {
+    font-size: 200%;
+    text-align: center;
+    background-color: rgb(118, 222, 225);
+    color: white;
+    padding: 15px;
+    text-shadow: 10px 10px 10px rgb(100, 187, 190);
+}
+
+#outline {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(34, 114, 116);
+}
+
+.title {
+    text-decoration: underline;
+    font-size: 200%;
+}
+
+
+
+
+
+
+
+
+
+
+.merch {
+    text-align: center;
+}
+
+
+.cost {
+    font-size: 200%;
+    color: rgba(14, 14, 138, 0.756);
+}
+
+
+
+.item {
+    color:rgb(14, 14, 138) ;
+    font-size: 200%;
+}
+
+.shop-item-button {
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 300px;
+    color: rgb(14, 14, 138);
+    border: none;
+    background-color: rgb(118, 222, 225);
+    text-align: center;
+    vertical-align: middle;
+    padding: .67em .67em;
+    cursor: pointer;
+    border-radius: 20px 25px;
+}
+
+#tote {
+    height: 400px;
+    width: 230px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#hmug {
+    height: 300px;
+    width: 300px;
+    display: block;
+    margin-left: 41%;
+}
+
+#water {
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin-left: 35% ;
+}
+
+hr {
+    width: 80%;
+    background-color: rgb(168, 164, 164);
+    height: 2px;
+    border: 1px solid  rgb(168, 164, 164);
+}
+
+
+
+
+
+
+footer {
+    color: white;
+    padding: 15px;
+    background-color: rgb(14, 14, 138);
+    border-top: 8px solid rgb(118, 222, 225);
+}
+
+footer > h3 {
+margin-left:20px;
+float: left;
+font-size: 150%;
+font-weight: 200%;
+}
+
+#email {
+text-decoration: none;
+color: white;
+}
+
+#nav1 > a{
+text-decoration: none;
+color: white;
+}
+
+.foot {
+margin-left: 600px;
+font-size: 110%;
+}
+
+
+
+
+.line {
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    margin-left: 380px;
+}
+
+
+
+#cart {
+    color:rgb(14, 14, 138);
+}
+
+.line2 {
+    display: inline-block;
+}
+
+#cart > h1 {
+    text-align: center;
+    font-size: 300%;
+}
+
+#item {
+    margin-left: -10px;
+} 
+
+#price {
+    margin-left: 350px;
+}
+
+#quan {
+    margin-left: 350px;
+} 
+
+#total {
+    margin-left: 70%;
+}
+
+#amount {
+    color:rgba(14, 14, 138, 0.756);
+}
+
+#hr2 {
+    width: 80%;
+    height: 1px;
+}
+
+
+#purchase {
+    text-align: center;
+    display: inline-block;
+    margin-left: 200px;
+    color: rgb(14, 14, 138);
+    vertical-align: middle;
+    cursor: pointer;
+    border-radius: 20px 25px;
+    background-color: rgb(118, 222, 225);
+    border: 2px solid rgb(106, 198, 201);
+    padding: 10px;
+    width: 70%;
+    height: 70%;
+    font-size: 120%;
+    border-radius: 20px 25px;
+    margin-left: 10px;
+}
+
+
+
+
+
+
+#cart-image {
+    vertical-align: -20px;
+    margin-left: 150px;
+    margin-top: 0px;
+    display: inline-block;
+}
+
+#cart-cost {
+    margin-left: 200px;
+    font-size: 1.2em;
+    display: inline-block;
+}
+
+#cart-amt {
+    margin-left: 200px;
+    display: inline-block;
+}
+
+input {
+    width: 30%;
+    height: 30%;
+    font-size: 1.2em;
+    display: inline-block;
+
+}
+
+#remove {
+    margin-left: -80px;
+    background-color: rgb(220, 127, 127);
+    color: white;
+    font-size: 110%;
+    border: none;
+    border-radius: 20px 25px;
+    padding: 10px;
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+
+.buttonr {
+    display: inline-block;
+}

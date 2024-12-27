@@ -1,0 +1,272 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#heading {
+    font-size: 200%;
+    font-weight: 300%;
+    color: white;
+    padding: 15px;
+    background-color: rgb(14, 14, 138);
+    margin-left: 5px;
+    margin-right: 5px;
+    border-bottom: 8px solid rgb(118, 222, 225);
+}
+
+h2 {
+    font-size: 200%;
+}
+
+
+.link {
+    float: right;
+    display: inline;
+    background-color: rgb(14, 14, 138);
+    color: white;
+    font-size: large;
+    font-weight: 300%;
+    padding: 10px;
+    border: none;
+    align-items: center;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: rgb(245, 245, 167);
+}
+
+
+
+.img {
+    height: 50px;
+    width: 50px;
+    padding: 0%;
+    vertical-align: middle;
+}
+
+.event {
+    color:rgb(14, 14, 138);
+}
+
+#start {
+    font-size: 200%;
+    text-align: center;
+    background-color: rgb(118, 222, 225);
+    color: white;
+    padding: 15px;
+    text-shadow: 10px 10px 10px rgb(100, 187, 190);
+}
+
+#outline {
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(34, 114, 116);
+}
+
+.title {
+    text-decoration: underline;
+    font-size: 200%;
+}
+
+.detail {
+    font-size: 150%;
+}
+
+.spec {
+    font-size: 120%;
+    float: right;
+    margin-right: 20px;
+}
+
+.Des {
+    height: 500px;
+    width: 700px;
+    padding: 0%;
+    vertical-align: middle;
+    float: left;
+    margin-left: auto;
+    margin-right: 25px;
+}
+
+#Children {
+    height: 600px ;
+}
+
+.co {
+    font-weight: 700;
+}
+
+table {
+    border: none;
+    table-layout: fixed;
+    border-collapse: collapse;
+}
+
+td {
+    padding-bottom: 50px;
+}
+
+hr {
+    height: 5px;
+   background-color:rgb(14, 14, 138) ;
+}
+#form > h1 {
+    color:rgb(14, 14, 138) ;
+}
+
+.hidden {
+    display: none;
+}
+
+.display {
+    display: block;
+}
+
+#event2 {
+    background-color: rgb(118, 222, 225);
+}
+
+#event2 > td {
+    padding-top: 50px;
+}
+
+footer {
+    color: white;
+    padding: 15px;
+    background-color: rgb(14, 14, 138);
+    border-top: 8px solid rgb(118, 222, 225);
+}
+#form {
+    text-align: center;
+    font-size: 150%;
+}
+
+footer > h3 {
+margin-left:20px;
+float: left;
+font-size: 150%;
+font-weight: 200%;
+}
+
+#email {
+text-decoration: none;
+color: white;
+}
+
+#nav1 > a{
+text-decoration: none;
+color: white;
+}
+
+.foot {
+margin-left: 600px;
+font-size: 110%;
+}
+
+#Email {
+    text-decoration: none;
+    color: white;
+}
+
+
+
+#contno {
+    margin-left: -80px;
+}
+
+#mail {
+    margin-left: -50px;
+}
+
+#ag {
+    margin-left: -30px;
+}
+
+#OldisGold {
+    margin-left: -20px;
+}
+
+
+
+#sub {
+    color: rgb(14, 14, 138);
+    background-color: rgb(118, 222, 225);
+    border: 2px solid rgb(106, 198, 201);
+    padding: 10px;
+    width: 70%;
+    height: 70%;
+    font-size: 120%;
+    border-radius: 20px 25px;
+    cursor: pointer;
+}
+
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid rgb(14, 14, 138);
+    outline: none;
+    text-align: center;
+    font-size: 20px;
+  }
+
+  #email {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid rgb(14, 14, 138);
+    outline: none;
+    text-align: center;
+    font-size: 20px;
+    color: black;
+}
+
+#age {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 1px solid rgb(14, 14, 138);
+    outline: none;
+    text-align: center;
+    font-size: 20px;
+}
+  
+  input[type=text]:focus {
+    background-color: rgb(190, 223, 234);
+  }
+
+  input[type=email]:focus {
+    background-color: rgb(190, 223, 234);
+
+  }
+
+  input[type=number]:focus {
+    background-color: rgb(190, 223, 234);
+  }
+
+
+
+::placeholder {
+    font-size: 110%;
+    color: rgb(118, 222, 225);
+}
+
+input[type=text]:focus::placeholder {
+    color: rgb(14, 14, 138);
+}
+
+
+#email:focus::placeholder {
+    color: rgb(14, 14, 138);
+}
+
+fieldset {  
+    border: 2px solid rgb(154, 154, 215);
+  }
+
+
+
+  
+

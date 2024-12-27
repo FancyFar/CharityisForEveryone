@@ -1,0 +1,291 @@
+*{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+
+#heading {
+    font-size: 200%;
+    font-weight: 300%;
+    color: white;
+    padding: 15px;
+    background-color: rgb(14, 14, 138);
+    margin-left: 5px;
+    margin-right: 5px;
+    border-bottom: 8px solid rgb(118, 222, 225);
+}
+
+h2 {
+    font-size: 200%;
+}
+
+
+.link {
+    float: right;
+    display: inline;
+    background-color: rgb(14, 14, 138);
+    color: white;
+    font-size: large;
+    font-weight: 300%;
+    padding: 10px;
+    border: none;
+    align-items: center;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: rgb(245, 245, 167);
+}
+
+
+#Banner{
+    width: 100%;
+    height: 300px;
+    padding: 0%;
+    object-fit: cover;
+}
+
+#who {
+    text-align: center;
+    /* background-color:rgb(118, 222, 225) ; */
+    color:rgb(14, 14, 138) ;
+    padding: 12px;
+}
+
+
+#who > p {
+    font-size: 150%;
+}
+
+
+#about {
+    background-color:rgb(118, 222, 225);
+    text-align: center;
+    color: rgb(14, 14, 138) ;
+    padding: 12px;
+}
+
+
+div#about > p{
+    font-size: 120%;
+}
+
+div#about > h3 {
+    font-size: 120%;
+    display: inline;
+}
+
+#abtheader {
+    font-size: 200%;
+}
+
+#do {
+    color:rgb(14, 14, 138) ;
+    text-align: center;
+}
+
+
+#do > p {
+    font-size: 150%;
+    line-height: 1.6;
+}
+
+table{
+    border: none;
+    padding: 5px;
+    margin-left: 230px;
+    margin-right: auto;
+    table-layout: fixed;
+}
+
+
+.icon {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 150px;
+    width: 150px;
+}
+
+#family{
+    height: 80%;
+    width: 80%;
+}
+
+th {
+    padding: 30px;
+
+}
+
+tr{
+    font-size: 150%;
+}
+
+td{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#M {
+    text-align: center;
+    color:rgb(14, 14, 138);
+}
+
+
+.lineatm {
+    width: 80%;
+    height: 1px;
+    background-color:rgb(14, 14, 138);
+    border: 1px solid rgb(14, 14, 138);
+}
+
+#M > p {
+    font-size: 150%;
+}
+#money {
+    font-weight: 600;
+    margin-left: -10px;
+}
+
+#percent {
+    margin-left: 200px;
+    text-align: center;
+    padding: 5px;
+}
+
+#percent > tr {
+    font-size: 110%;
+    font-weight: bolder;
+}
+#per {
+    font-size: 550%;
+}
+
+#tr2 {
+    font-weight: 700;
+    font-size: 200%
+}
+
+#help{
+    text-align: center;
+    color:rgb(14, 14, 138);
+    border: 5px solid rgb(118, 222, 225);
+    background-color:rgb(118, 222, 225) ;
+    padding: 5px;
+    padding-top: 20px;
+    
+} 
+#help > h4 {
+    font-size: 130%;
+}
+#help > h3 {
+    font-size: 200%;
+}
+
+#mil {
+    font-size: 160%;
+    font-weight: 550;
+}
+
+#heart {
+    image-rendering: auto;
+    image-resolution: initial;
+    display: inline;
+    float: left;
+    margin-left: 0%;
+    height: 120%;
+    vertical-align: middle;
+}
+
+#how {
+    text-align: center;
+    color:rgb(14, 14, 138) ;
+}
+
+#how > h2 {
+    font-size: 300%;
+}
+
+span.How {
+    font-size: 150%;
+    display: inline-block;
+    align-items: center;
+    margin-left: 150px;
+}
+
+.part:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+    box-shadow: 0.2rem 0.2rem 0.2rem rgb(4, 4, 60);
+    transition: 0.3s ease-in-out;
+}
+
+.part {
+    background:rgb(14, 14, 138) ;
+    padding: 40px;
+    border-radius:25%;
+}
+
+#hands {
+    height: 200px;
+    width: 200px;
+}
+
+#merch {
+    height:200px;
+    width: 200px;
+}
+
+
+#upcoming{
+    text-align: center;
+    color:rgb(14, 14, 138) ;
+}
+
+#event {
+    border-collapse: collapse;
+    margin-left: 170px;
+    border: solid darkblue ;
+}
+
+#event > td {
+    text-align: center;
+}
+
+.name {
+    padding: 80px;
+    font-style: oblique;
+}
+
+#cap {
+    text-align: inherit;
+}
+
+footer {
+        color: white;
+        padding: 15px;
+        background-color: rgb(14, 14, 138);
+        border-top: 8px solid rgb(118, 222, 225);
+}
+
+footer > h3 {
+    margin-left:20px;
+    float: left;
+    font-size: 150%;
+    font-weight: 200%;
+}
+
+#email {
+    text-decoration: none;
+    color: white;
+}
+
+#nav1 > a{
+    text-decoration: none;
+    color: white;
+}
+
+.foot {
+    margin-left: 600px;
+    font-size: 110%;
+}
